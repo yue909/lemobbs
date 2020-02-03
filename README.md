@@ -40,34 +40,6 @@ lemobbs v1.200202管理系统：基于lemocms layui fly 模板进行开发的社
 
 
 
-### 系统快照
-【系统 - 安装】
-
-![image](docs/images/install.jpg)
-
-【系统 - 首页】
-
-![image](docs/images/index.png)
-
-【系统 - 内容管理】
-
-![image](docs/images/content.png)
-
-【系统 - 会员管理】
-
-![image](docs/images/user.png)
-
-
-【系统 - 微信管理】
-
-![image](docs/images/wechat1.png)
-![image](docs/images/wechat2.png)
-![image](docs/images/wechat3.png)
-![image](docs/images/wechat4.png)
-![image](docs/images/wechat5.png)
-
-
-
 ### 版权信息
 
 lemobbs 未授权的情况下 ，禁止在lemobbs整体或任何部分基础上发展任何派生版本、修改版本或第三方版本用于重新分发，经发现必追责。 
