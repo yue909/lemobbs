@@ -8,8 +8,9 @@
 + QQ群2：[455019756](https://jq.qq.com/?_wv=1027&k=52oRd8O)  加群获取账号密码（看置顶公告）
 + QQ群1：[455018252](https://jq.qq.com/?_wv=1027&k=5RWLxx7) 加群获取账号密码(群满)（看置顶公告）
 
-+ 演示地址 ： https://bbs.lemocms.com/index.php;
- 
++ 社区演示地址 ： https://bbs.lemocms.com/index.php;
+
++ lemocms演示地址 ： https://demo.lemocms.com/admin; 
 
 
 ###[开发文档](docs/developer.md)
@@ -60,8 +61,8 @@ lemobbs 未授权的情况下 ，禁止在lemobbs整体或任何部分基础上�
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 QQ群：[455018252](https://jq.qq.com/?_wv=1027&k=5RWLxx7)
 
-Github：https://github.com/yue909/lemobbs/issues
-Gitee : https://gitee.com/limingyue0312/lemobbs/issues
+Github：https://github.com/yue909/lemobbs
+Gitee : https://gitee.com/limingyue0312/lemobbs
 
 
 ## 项目目录结构
